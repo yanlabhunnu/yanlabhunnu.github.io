@@ -13,17 +13,33 @@
     <url>/2021/07/07/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
 <p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>selfin</title>
+    <url>/2021/07/08/selfin/</url>
+    <content><![CDATA[<h1 id="个人简介"><a href="#个人简介" class="headerlink" title="个人简介"></a>个人简介</h1><h2 id="1-开站简介"><a href="#1-开站简介" class="headerlink" title="1 开站简介"></a>1 开站简介</h2><p>各位今日头条的读者，大家好！我是湖南师范大学心理学系的老师颜志强（<a href="https://jky.hunnu.edu.cn/info/1102/2254.htm">学校主页</a>.</p>
+<p>非常荣幸地受到今日头条的官方邀请开设个人账号。尽管我的专业学习以及研究资历尚浅，但是作为心理学研究者，对于心理学专业知识的科普责无旁贷，希望能够贡献一份微薄的力量。</p>
+<h2 id="2-个人简介"><a href="#2-个人简介" class="headerlink" title="2 个人简介"></a>2 个人简介</h2><p>首先，还是跟各位读者简单做个自我介绍。我是湖南岳阳人，喜欢打羽毛球，玩游戏，学习新的技术和方法（例如，编程和工程类）。2014年毕业于华中师范大学应用心理学专业，获理学学士学位，2019年毕业于北京大学基础心理学专业，获理学博士学位，2019年7月起就职于湖南师范大学教育科学学院心理学系，校聘副教授。</p>
+<p>其次，我的研究方向为发展心理学，研究主题以共情（Empathy）为核心，探讨其发生发展和相关的心理机制。主要从发展心理学的视角考察个体一般认知发展与社会认知发展之间的关系，主要考察学前期儿童的执行功能与共情（见下图）。综合利用各种文献学分析方法进行量化追踪最新研究方向、主题（文献计量学方法），探讨研究结果不一致的边界问题（元分析方法），以实验的方法（触屏、眼动追踪等）考察学前期儿童的一般认知和社会认知发展情况（Python编程、Matlab编程，SPSS，R语言等）。</p>
+<p>最后，打个广告，我目前已具有心理学、应用心理学和学前教育学硕士生导师资格，希望有志于攻读TOP高校或海外知名高校博士学位，今后从事科研类工作的本科生联系我，参与到我的课题组中来，联系优先选择邮箱（yanzhiqiangpsy@hunnu.edu.cn），随附简历。</p>
+<h2 id="3-网站分享内容及主题"><a href="#3-网站分享内容及主题" class="headerlink" title="3 网站分享内容及主题"></a>3 网站分享内容及主题</h2><p>作为高校的科研青椒，工作和科研压力还是比较大的，因此，今后该网页的活动可能不太稳定，但是定会不定时、不间断的进行更新。</p>
+<p>根据我目前的研究情况和工作来说，今后我以及我的课题组的学生可能一方面会依托于专业论文、既有课题进行一些心理学知识的专业性科普，另一方面会进行一些科学研究宣传，招募研究的志愿参与者。</p>
+<p>由于精力有限，今日头条读者的留言我们会选择性的进行回复，有趣、有意义的话题我们会考虑展开论述。</p>
+<p>谢谢大家！</p>
+]]></content>
+      <categories>
+        <category>Dryan</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+      </tags>
   </entry>
 </search>
